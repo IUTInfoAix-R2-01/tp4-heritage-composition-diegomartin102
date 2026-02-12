@@ -1,0 +1,15 @@
+Exercice 5 :
+Redéfinir une méthode signifie reprendre le nom d'une méthode par exemple d'un parent dans héritage puis en modifier la fonction.
+
+Exercice 6 : 
+getPuissance() et en quelque sorte toString()
+
+Exercice 7 : 
+@Override sert au compilateur à vérifier la validité des méthodes de la super classe redéfinies dans ses enfants. Il reste pertinent de la mettre dans la super classe
+car cette dernière peut se servir de la classe par défaut.
+
+Exercice 8 : 
+Elle rend le code plus complet et amoindrit la probabilité qu'il comporte une erreur.
+
+Exercice 10 : 
+Cette méthode prend en compte la puissance de base du vélo fournie par la personne qui pédale puis, la multiplie par la puissance du moteur du vélo electrique

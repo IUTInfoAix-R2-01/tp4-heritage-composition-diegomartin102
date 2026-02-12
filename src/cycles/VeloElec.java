@@ -34,10 +34,12 @@ public class VeloElec extends Velo {
 		this.facteurPuissanceMoteur = facteurPuissanceMoteur;
 	}
 	
+	@Override
 	public double getPuissance(double frequencesCoupsDePedale) {
 		return super.getPuissance(frequencesCoupsDePedale)*facteurPuissanceMoteur;
 	}
 	
+	@Override
 	public String toString() {
 		return "VeloElec [facteurPuissanceMoteur=" + facteurPuissanceMoteur + "]";
 	}

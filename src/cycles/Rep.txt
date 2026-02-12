@@ -9,7 +9,7 @@ Exercice 7 :
 car cette dernière peut se servir de la classe par défaut.
 
 Exercice 8 : 
-Elle rend le code plus complet et amoindrit la probabilité qu'il comporte une erreur.
+Elle rend le code plus complet et amoindrit la probabilité qu'il comporte une erreur. Cependant, les tests montrent qu'elle n'est pas indispensable
 
 Exercice 10 : 
 Cette méthode prend en compte la puissance de base du vélo fournie par la personne qui pédale puis, la multiplie par la puissance du moteur du vélo electrique
